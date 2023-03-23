@@ -1,5 +1,6 @@
 # BlackAndWhite-to-Colour-Image
 In This Repositary I am Writing My Self Satisfaction Project #2
+
 This is a Python code that uses the OpenCV library to apply a colorization algorithm to a black and white image.
 
 main.py code first loads the black and white image 'bw_image.png' using the imread() function and converts it to color using the cvtColor() function.
